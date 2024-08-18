@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://as1.ftcdn.net/v2/jpg/05/26/58/82/1000_F_526588256_RsCjyS91WJ4T3MA2J4xpTqokLUlGHkyK.jpg" width="100" />
+  <img src="https://img.freepik.com/premium-vector/pixel-art-illustration-robot-head-pixelated-robot-robot-head-icon-pixelated-game_1038602-733.jpg?w=740" width="100" />
 </p>
 
 # 🧠 Natural Language Preprocessing Toolkit
@@ -129,11 +129,3 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 - List any resources, contributors, inspiration, etc. here.
 
 [**Return**](#-overview)
-
----
-
-
-```bash
-git clone https://github.com/your-username/nlp-preprocessing-toolkit.git
-cd nlp-preprocessing-toolkit
-pip install -r requirements.txt
