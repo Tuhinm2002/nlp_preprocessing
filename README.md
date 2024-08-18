@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[https://as1.ftcdn.net/v2/jpg/05/26/58/82/1000_F_526588256_RsCjyS91WJ4T3MA2J4xpTqokLUlGHkyK.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d820859-09b9-4296-9ea3-046537db2c6a/dgbgvlz-0c6a55c8-b263-4f90-a123-21b123a1b761.png/v1/fill/w_894,h_894,q_70,strp/robot_pixel_art__by_aerakiven_dgbgvlz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzZkODIwODU5LTA5YjktNDI5Ni05ZWEzLTA0NjUzN2RiMmM2YVwvZGdiZ3Zsei0wYzZhNTVjOC1iMjYzLTRmOTAtYTEyMy0yMWIxMjNhMWI3NjEucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1ik_qMfil_PQXfzGVoAkWf83AA9fdawSWyeYGtvumAE)" width="100" />
+  <img src="https://as1.ftcdn.net/v2/jpg/05/26/58/82/1000_F_526588256_RsCjyS91WJ4T3MA2J4xpTqokLUlGHkyK.jpg" width="100" />
 </p>
 
 # 🧠 Natural Language Preprocessing Toolkit
@@ -60,9 +60,78 @@ Preprocessing is a critical step in NLP that transforms raw text into a clean, s
 
 ## 🚀 Getting Started
 
-### Installation
+**System Requirements:**
 
-Clone the repository and install the necessary dependencies:
+* **Python**: `version x.y.z`
+
+### ⚙️ Installation
+
+<h4>From <code>source</code></h4>
+
+> 1. Clone the pyflink-poc repository:
+>
+> ```console
+> $ git clone ../nlp_preprocessing
+> ```
+>
+> 2. Change to the project directory:
+> ```console
+> $ cd nlp_preprocessing
+> ```
+>
+> 3. Install the dependencies:
+> ```console
+> $ pip install -r requirements.txt
+> ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Here are several ways you can contribute:
+
+- **[Report Issues](https://local/pyflink-poc/issues)**: Submit bugs found or log feature requests for the `nlp_preprocessing` project.
+- **[Submit Pull Requests](https://local/pyflink-poc/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://local/pyflink-poc/discussions)**: Share your insights, provide feedback, or ask questions.
+
+<details closed>
+<summary>Contributing Guidelines</summary>
+
+1. **Fork the Repository**: Start by forking the project repository to your local account.
+2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
+   ```sh
+   git clone ../nlp_preprocessing
+   ```
+3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
+   ```sh
+   git checkout -b new-feature-x
+   ```
+4. **Make Your Changes**: Develop and test your changes locally.
+5. **Commit Your Changes**: Commit with a clear message describing your updates.
+   ```sh
+   git commit -m 'Implemented new feature x.'
+   ```
+6. **Push to local**: Push the changes to your forked repository.
+   ```sh
+   git push origin new-feature-x
+   ```
+7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
+8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
+</details>
+
+
+## 📄 License
+
+This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+
+---
+
+## 👏 Acknowledgments
+
+- List any resources, contributors, inspiration, etc. here.
+
+[**Return**](#-overview)
+
+---
+
 
 ```bash
 git clone https://github.com/your-username/nlp-preprocessing-toolkit.git
